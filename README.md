@@ -1,6 +1,6 @@
 # Data-Visualization-CA2
 
-To Set up the application, follow these steps:
+To set up the application, follow these steps:
 1) Open command prompt on windows or terminal on Mac OS or Linux
 2) Navigate to the path where server.py and .csv are located using the following command:
      ```
