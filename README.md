@@ -1,6 +1,8 @@
 # Data-Visualization-CA2
 
-To set up the application, follow these steps:
+An online version of this application is already hosted online at the following link: [http://13.48.67.64:8050](http://13.48.67.64:8050/)
+
+To set up the application locally, follow these steps:
 1) Open command prompt on windows or terminal on Mac OS or Linux
 2) Navigate to the path where server.py and .csv are located using the following command:
      ```
