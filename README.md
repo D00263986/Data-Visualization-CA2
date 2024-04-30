@@ -15,4 +15,4 @@ To Set up the application, follow these steps:
    ```
      python server.py
    ```
-8) Visit [127:0:0](http://127.0.0.1:8050/) in your web browser 
+8) Visit [http://127.0.0.1:8050](http://127.0.0.1:8050/) in your web browser 
